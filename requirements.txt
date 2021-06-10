@@ -56,7 +56,7 @@ docutils==0.16
 email-validator==1.1.1
 entrypoints==0.3
 et-xmlfile==1.0.1
-fastapi==0.60.1
+fastapi==0.65.2
 fastcache==1.1.0
 filelock==3.0.12
 flake8==3.8.3
